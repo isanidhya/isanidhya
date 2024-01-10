@@ -5,7 +5,7 @@
 <detail>
 <summary><h2>2nd Year Student Major in Computer science</h2></summary>
 
-### I am a Student who is pursuing Btech in Computer Science. I am a tech enthusiast who loves to learn about new technologies and explore them. I am a team player and love to work in teams and learn from them. I am also a web developer and have worked on some projects. I am also a open source contributor and have contributed to some open source projects. I am also a good speaker and have spoken in many events. I am also a good leader and have led many teams and projects.
+### I am a Student who is pursuing Btech in Computer Science. I am a tech enthusiast who loves learning about and exploring new technologies. I am a team player and love to work in teams and learn from them. I am also a web developer and have worked on some projects. I am also an open-source contributor and have contributed to some open-source projects. I am also a good speaker and have spoken at many events. I am also a good leader and have led many teams and projects.
 Check out my latest work updates on [https://isanidhya.github.io/portfolio/]
 </detail>
 
@@ -34,7 +34,7 @@ Check out my latest work updates on [https://isanidhya.github.io/portfolio/]
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=isanidhya&theme=nightowl&hide_border=false)<br/>
 
-![Snake animation](https://github.com/isanidhya/isanidhya/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=isanidhya&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)

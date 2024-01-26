@@ -27,7 +27,7 @@ Check out my latest work updates on [https://isanidhya.github.io/]
 <detail>
 <summary><h2>My Most Used Languages</h2></summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isanidhya&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isanidhya&layout=compact">
 </detail>
 
 # 📊 GitHub Stats:

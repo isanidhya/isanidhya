@@ -15,7 +15,7 @@ Check out my latest work updates on [https://isanidhya.github.io/]
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/jaskaran-singh-w-5bb349231/](https://www.linkedin.com/in/sanidhya-sahu/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/isanidhya/](https://www.linkedin.com/in/sanidhya-sahu/)) 
 - [Twitter](https://twitter.com/Sanidhya__Sahu)
 - [Instagram](https://www.instagram.com/sanidhyasahu__/)
 - [Email](mailto:sanidhyasahu612@gmail.com)

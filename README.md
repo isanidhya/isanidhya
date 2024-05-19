@@ -90,6 +90,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sanidhya-sahu.sanidhya-sahu&left_color=black&right_color=darkslategrey"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=isanidhya.isanidhya&left_color=black&right_color=darkslategrey"  />
 
 ###

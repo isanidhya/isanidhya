@@ -10,9 +10,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 Pursuing **B.Tech in Internet of Things** – a specialization with blending hardware + software + systems thinking.
-- 🧠 I bring together **embedded systems and AI** to solve real-world problems — from **space research** to **rural tech**, **finance**, and **healthcare**.
-- 🛠️ I have hands-on experience in **bare-metal OS dev, x86 assembly**, and I’m currently diving into **RISC-V CPU design with Verilog**.
-- 💬 Outside of projects, I actively participate in **tech communities** like **Robotics Club** and **Google Developer Group**, and love sharing ideas at events.
+- 🧠 I bring together **embedded systems and AI** to solve real-world problems — from **space research** to **rural tech**.
+- 🛠️ I have a keen interest in **bare-metal OS dev, x86 assembly**, and I’m currently diving into **RISC-V Architecture**.
+- 💬 I actively participate in **tech communities** like **Robotics Club** and **Google Developer Group**.
 
 ---
 ### 🧰 Tech Stack
@@ -39,10 +39,10 @@ DevOps & Platforms:       Docker, Git, GitHub Actions, CI/CD, Postman, AWS (EC2/
 🧾 Uses OCR (Tesseract), Regex, and NLP to detect entities and store data<br>
 📂 Dashboard with filters, PDF export, rank insights, and summaries<br>
 🧪 Designed for fintech use cases, personal budgeting, or business tracking<br><br>
-<a href="https://github.com/isanidhya/Raseed">
-<img src="https://img.shields.io/github/stars/sanidhya-sahu/rasheed-receipt-manager?style=social" />
+<a href="https://github.com/isanidhya/Raseed-AI">
+<img src="https://img.shields.io/github/stars/isanidhya/Raseed-AI?style=social" />
 </a>
-<a href="https://github.com/sanidhya-sahu/rasheed-receipt-manager">
+<a href="https://github.com/isanidhya/Raseed-AI">
 <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>

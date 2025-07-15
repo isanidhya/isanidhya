@@ -97,7 +97,7 @@ DevOps & Platforms:       Docker, Git, GitHub Actions, CI/CD, Postman, AWS (EC2/
 <a href="https://github.com/sanidhya-sahu/krishisarthi">
 <img src="https://img.shields.io/github/stars/sanidhya-sahu/krishisarthi?style=social" />
 </a>
-<a href="https://github.com/sanidhya-sahu/krishisarthi">
+<a href="https://github.com/isanidhya/krishisarthi">
 <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
